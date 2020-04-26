@@ -1,5 +1,5 @@
 * [annoy](run_annoy.ipynb) (DONE)
-* [LDA comparison](run_compare_lda.ipynb)
+* [LDA comparison](run_compare_lda.ipynb) (DONE)
 * [core concepts](run_core_concepts.ipynb)
 * [corporas, vectors](run_corpora_and_vector_spaces.ipynb)
 * [distance metrics](run_distance_metrics.ipynb)
