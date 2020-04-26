@@ -1,7 +1,7 @@
 * [annoy](run_annoy.ipynb) (DONE)
 * [LDA comparison](run_compare_lda.ipynb) (DONE)
 * [core concepts](run_core_concepts.ipynb) (DONE)
-* [corporas, vectors](run_corpora_and_vector_spaces.ipynb)
+* [corporas, vectors](run_corpora_and_vector_spaces.ipynb) (DONE)
 * [distance metrics](run_distance_metrics.ipynb)
 * [doc](run_docs.ipynb)
 * [doc2vec, IMDB dataset](run_doc2vec_imdb.ipynb) (error: testfixtures pkg not found)
