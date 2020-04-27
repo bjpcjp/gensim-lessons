@@ -1,3 +1,6 @@
+* [API reference](https://radimrehurek.com/gensim/apiref.html)
+
+### tutorials
 * [annoy](run_annoy.ipynb) (DONE)
 * [LDA comparison](run_compare_lda.ipynb) (DONE)
 * [core concepts](run_core_concepts.ipynb) (DONE)
