@@ -5,7 +5,7 @@
 * [distance metrics](run_distance_metrics.ipynb) (DONE)
 * [doc](run_docs.ipynb)
 * [doc2vec, IMDB dataset](run_doc2vec_imdb.ipynb) (DONE)
-* [doc2vec, IEE](run_doc2vec_iee.ipynb)
+* [doc2vec, IEE](run_doc2vec_iee.ipynb) (DONE)
 * [downloader API](run_downloader_api.ipynb)
 * [fasttext](run_fasttext.ipynb)
 * [LDA](run_lda.ipynb)
