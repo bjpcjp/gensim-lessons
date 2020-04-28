@@ -9,7 +9,7 @@
 * [doc](run_docs.ipynb)
 * [doc2vec, IMDB dataset](run_doc2vec_imdb.ipynb) (DONE)
 * [doc2vec, IEE](run_doc2vec_iee.ipynb) (DONE)
-* [downloader API](run_downloader_api.ipynb)
+* [downloader API](run_downloader_api.ipynb) (DONE)
 * [fasttext](run_fasttext.ipynb)
 * [LDA](run_lda.ipynb)
 * [pivoted doc norm](run_pivoted_doc_norm.ipynb)
