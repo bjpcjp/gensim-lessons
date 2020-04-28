@@ -1,6 +1,8 @@
+## Gensim tutorials
+
 * [API reference](https://radimrehurek.com/gensim/apiref.html)
 
-### tutorials
+### lesson list
 * [Annoy (Approx Nearest Neighbors Oh Yeah - spotify)](run_annoy.ipynb) (DONE)
 * [LDA comparison](run_compare_lda.ipynb) (DONE)
 * [Core Concepts](run_core_concepts.ipynb) (DONE)
@@ -13,8 +15,8 @@
 * [Fasttext](run_fasttext.ipynb) (DONE)
 * [LDA](run_lda.ipynb) (DONE)
 * [PDLN (pivoted document length normalization)](run_pivoted_doc_norm.ipynb) (DONE)
-* [similarity queries](run_similarity_queries.ipynb)
-* [summarization](run_summarization.ipynb)
-* [topics & transforms](run_topics_and_transformations.ipynb)
-* [word-mover](run_wmd.ipynb) (depends on Google News dataset. need stable highspeed connection before completing.)
-* [word2vec](run_word2vec.ipynb) (depends on Google News dataset. need stable highspeed connection before completing.)
+* [Similarity Queries](run_similarity_queries.ipynb) (DONE)
+* [Summarization](run_summarization.ipynb)
+* [Topics & Transforms](run_topics_and_transformations.ipynb)
+* [Word-Mover](run_wmd.ipynb) (depends on Google News dataset. need stable highspeed connection before completing.)
+* [Word2Vec](run_word2vec.ipynb) (depends on Google News dataset. need stable highspeed connection before completing.)
