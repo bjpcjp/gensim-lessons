@@ -18,5 +18,5 @@
 * [Similarity Queries](run_similarity_queries.ipynb) (DONE)
 * [Text Summarization](run_summarization.ipynb) (DONE)
 * [Topics & Transforms](run_topics_and_transformations.ipynb) (DONE)
-* [Word-Mover](run_wmd.ipynb) (depends on Google News dataset. need stable highspeed connection before completing.)
+* [Word-Mover](run_wmd.ipynb)
 * [Word2Vec](run_word2vec.ipynb) (depends on Google News dataset. need stable highspeed connection before completing.)
